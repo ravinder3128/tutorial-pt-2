@@ -21,5 +21,8 @@
   "homepage": "https://github.com/ravinder3128/tutorial-pt-2#readme",
   "dependencies": {
     "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "pm2": "^2.7.2"
   }
 }
