@@ -6,7 +6,7 @@ module.exports = {
   deploy: {
     production: {
       user: 'ravinder',
-      host: 'ec2-52-15-145-222.us-east-2.compute.amazonaws.com',
+      host: 'ec2-18-216-187-215.us-east-2.compute.amazonaws.com',
       key: '/Users/ravinder/Downloads/first-app.pem',
       ref: 'origin/master',
       repo: 'git@github.com:ravinder3128/tutorial-pt-2.git',
