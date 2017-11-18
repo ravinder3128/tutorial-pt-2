@@ -5,7 +5,7 @@ module.exports = {
   }],
   deploy: {
     production: {
-      user: 'ravinder',
+      user: 'root',
       host: 'ec2-18-216-187-215.us-east-2.compute.amazonaws.com',
       key: '/Users/ravinder/Downloads/first-app.pem',
       ref: 'origin/master',
