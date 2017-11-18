@@ -11,7 +11,7 @@ module.exports = {
       ref: 'origin/master',
       repo: 'git@github.com:ravinder3128/tutorial-pt-2.git',
       path: '/home/ec2-user/tutorial-pt-2',
-      'post-deploy': 'npm install && pm2 startOrRestart ecosystem.config.js'
+      'post-deploy': 'npm install && pm2 Restart ecosystem.config.js'
     }
   }
 }
