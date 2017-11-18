@@ -7,7 +7,7 @@ module.exports = {
     production: {
       user: 'ravinder',
       host: 'ec2-52-15-145-222.us-east-2.compute.amazonaws.com',
-      key: '~/.ssh/id_rsa.pub',
+      key: '~/.ssh/tutorial-2.pem',
       ref: 'origin/master',
       repo: 'git@github.com:ravinder3128/tutorial-pt-2.git',
       path: '/home/ec2-user/tutorial-pt-2',
